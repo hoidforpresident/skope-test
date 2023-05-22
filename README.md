@@ -1,3 +1,3 @@
 # skope-test
 
-test link to blog.nasa.gov
+test link to [a blocked site](https://blog.nasa.gov/)
